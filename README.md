@@ -24,18 +24,6 @@ Herramientas
 Git & GitHub
 VS Code
 
-Estadísticas de GitHub
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dgonmor428&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgonmor428&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    height="180"
-  />
-</p>
 Racha de contribuciones
 <p align="center"> <img src="https://streak-stats.demolab.com?user=dgonmor428&theme=tokyonight&hide_border=false"/> </p>
 
