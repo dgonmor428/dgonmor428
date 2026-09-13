@@ -49,7 +49,9 @@ Soy estudiante de DAW apasionado por el desarrollo web y la tecnología. Me gust
 
 ### 📫 Conectemos
 
-- 🐙 GitHub de clase: [@dgonmor428](https://github.com/dgonmor428)
+- 🐙 GitHub: [@Smaricraft](https://github.com/Smaricraft)
+- 🐙 GitHub (estudiante): [@dgonmor428](https://github.com/dgonmor428)
+- 📧 Correo de trabajo: davidgonzwork@gmail.com
 
 <p align="center">
   <i>"El mejor código es el que te hace aprender algo nuevo."</i>
